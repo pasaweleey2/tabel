@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+
+/* .row{
+    margin-left:.1px;
+}
+
+.tde{
+    margin-right:0px;
+    width: 6%; 
+    height: 150px;
+}
+.span2{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+
+}
+.span3{
+    position: absolute;
+    right: 5px;
+    top: 800px;
+}
+.span4{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+.span5{
+    position: absolute;
+    right: 15px;
+    top: 80px;
+}
+.span6{
+    position: absolute;
+    right: 15px;
+    top: 100px;
+}
+.span7{
+    position: absolute;
+    right: 15px;
+    top: 80px;
+}
+.span8{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+.span9{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+ */
+ .br{
+    position: relative;
+    text-align: center;
+    align-items: center;
+}
+.br::before{
+    content: "";
+    width: 100%;
+    height: 1px;
+    background-color: #000;
+    position: absolute;
+    left: 0;
+    top: 50%;
+}
+.ta{
+    margin-top: 170px;
+}
+.taa{
+    margin-top: 170px;
+}
+.t{
+    margin-top: 100px;
+    width: 100%;
+}
+.span7{
+    position: absolute;
+    right: 15px;
+    top: 130px;
+}
+.span8{
+    position: absolute;
+    right: 0px;
+    top: 20px;
+}
+.span9{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+.span4{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+.span5{
+    position: absolute;
+    right: 15px;
+    top: 120px;
+}
+.span6{
+    position: absolute;
+    right: 5px;
+    top: 140px;
+}
+.span11{
+    position: absolute;
+    right: 5px;
+    top: 100px;
+}
+
+.span66{
+    position: absolute;
+    right: 5px;
+    top: 0px;   
+}
+.span44{
+    position: absolute;
+    right: 5px;
+    top: 0px;   
+}
+.span33{
+    position: absolute;
+    right: 5px;
+    top: 0px;   
+}
+.tab{
+    position: relative;
+}
+.span99{
+    position: absolute;
+    right: 5px;
+    top: 0px;   
+}
+.cl{
+    position: absolute;
+    right: 5px;
+    top: 110px;  
+}
+.cl1{
+    position: absolute;
+    right: 5px;
+    top: 0px;  
+}
+.span444{
+    position: absolute;
+    right: 5px;
+    top: 10px; 
+}
+.th{
+    text-align: center;
+}
